@@ -8,7 +8,6 @@ I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy cod
 
 ## 📫 Feel free to reach out and connect with me. I'm always open to interesting conversations and collaborations.
 - **Email:** amarcetic04@email.com
-- 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
