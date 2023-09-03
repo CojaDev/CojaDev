@@ -1,20 +1,18 @@
-# Hi, I'm Aleksandar Marcetic 👋
+# Hello, I'm Aleksandar Marcetic 👋
 
-I'm a passionate Frontend Web Developer based in Serbia, always eager to explore new technologies and tools to improve my skills.
+I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy coding and am constantly exploring new technologies and tools to be best developer there is.
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5, Sass, React
-- **Learning:** [List any technologies you're currently learning]
+- **Frontend:** Html, Css, Js, Bootstrap 5, Sass, React
+- And i will learn even more
 
-## 📫 Let's Connect
-
-Feel free to reach out for interesting conversations and collaborations.
-
+## 📫 Feel free to reach out and connect with me. 
 - **Email:** amarcetic04@email.com
-
+- I'm always open to interesting conversations and collaborations.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0D1117)
 
-Thanks for visiting my profile! 😊
+
+Thanks for stopping by!
