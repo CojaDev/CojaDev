@@ -5,9 +5,11 @@ I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy cod
 ## 🔧 Technologies & Tools
 
 - **Frontend:** Html, Css, Js, Bootstrap 5, Sass, React
+- And i will learn even more
 
-## 📫 Feel free to reach out and connect with me. I'm always open to interesting conversations and collaborations.
+## 📫 Feel free to reach out and connect with me. 
 - **Email:** amarcetic04@email.com
+- I'm always open to interesting conversations and collaborations.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
