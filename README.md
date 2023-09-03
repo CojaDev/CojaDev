@@ -12,6 +12,7 @@ I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy cod
 - I'm always open to interesting conversations and collaborations.
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=000000)
+
 
 Thanks for stopping by!
