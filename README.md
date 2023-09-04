@@ -14,5 +14,3 @@ I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy cod
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CojaDev&show_icons=true&bg_color=0D1117)
 
-
-Thanks for stopping by!
