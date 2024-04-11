@@ -4,7 +4,8 @@ I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy cod
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** Html, Css, Js, Bootstrap 5, Sass, React, NextJs, ThreeJs, TailwindCSS
+- **Frontend:** Html, Css, JS, Bootstrap 5, Sass, React, NextJs, ThreeJs, TailwindCSS, Api
+- **Backend:** MongoDB
 - And i will learn even more
 
 ## 📫 Feel free to reach out and connect with me. 
