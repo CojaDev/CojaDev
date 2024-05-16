@@ -1,6 +1,6 @@
 # Hello, I'm Aleksandar Marcetic 👋
 
-I'm a passionate Frontend Web Developer , currently based in Serbia. I enjoy coding and am constantly exploring new technologies and tools to be best developer there is.
+I'm a passionate Frontend Web Developer, currently based in Serbia. I enjoy coding and am constantly exploring new technologies and tools to be best developer there is.
 
 ## 🔧 Technologies & Tools
 
