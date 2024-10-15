@@ -33,22 +33,22 @@ I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the 
 ## 🌟 Featured Projects
 
 <details>
-<summary>Project 1: Awesome Web App</summary>
+<summary>Tvoja Pomoć</summary>
 
-- Description: A responsive web application built with React and Next.js
-- Tech Stack: React, Next.js, TailwindCSS
-- [GitHub Repo](https://github.com/yourusername/project1)
-- [Live Demo](https://project1-demo.com)
+- Description: Tvoja Pomoć je online platforma koja povezuje ljude kojima je potrebna pomoć sa onima koji nude svoje usluge. Cilj je olakšati pronalaženje pomoćnika za razne male poslove, od kućnih popravki do pomoći u dvorištu.
+- Tech Stack: React, Next.js, TailwindCSS, MongoDB, Shadcn/ui
+- [GitHub Repo](https://github.com/CojaDev/Tvoja-Pomoc)
+- [Live Demo](https://tvojapomoc.vercel.app)
 
 </details>
 
 <details>
-<summary>Project 2: 3D Portfolio Showcase</summary>
+<summary>Restorani Subotica</summary>
 
-- Description: An interactive 3D portfolio built with Three.js and React
-- Tech Stack: React, Three.js, GSAP
-- [GitHub Repo](https://github.com/yourusername/project2)
-- [Live Demo](https://project2-demo.com)
+- Description: Restorani Subotica is a web platform showcasing various restaurants in Subotica. Users can browse through a curated list of restaurants, view detailed information about each one, and make reservations directly through the website.
+- Tech Stack: React, Next.js, TailwindCSS
+- [GitHub Repo](https://github.com/CojaDev/Restorani_Subotica2)
+- [Live Demo](https://restoranisubotica.vercel.app)
 
 </details>
 
@@ -64,9 +64,8 @@ I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandar-marcetic-b47483202/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://portfolio-coja.vercel.app/)
 
 📧 Email me at: amarcetic04@email.com
 
