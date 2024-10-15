@@ -1,7 +1,7 @@
 # Hello, World! I'm Aleksandar Marcetic 👋
 
 <p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Always+learning+new+things&font=Fira%20Code&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the boundaries of web development. My journey in tech is driven by curiosity and a desire to create impactful, user-centric applications.
