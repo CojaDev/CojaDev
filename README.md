@@ -35,7 +35,7 @@ I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the 
 <details>
 <summary>Tvoja Pomoć</summary>
 
-- Description: Tvoja Pomoć je online platforma koja povezuje ljude kojima je potrebna pomoć sa onima koji nude svoje usluge. Cilj je olakšati pronalaženje pomoćnika za razne male poslove, od kućnih popravki do pomoći u dvorištu.
+- Description: Tvoja Pomoć is an online platform that connects people in need of assistance with those offering their services. The goal is to simplify finding helpers for various small tasks, from home repairs to yard work.
 - Tech Stack: React, Next.js, TailwindCSS, MongoDB, Shadcn/ui
 - [GitHub Repo](https://github.com/CojaDev/Tvoja-Pomoc)
 - [Live Demo](https://tvojapomoc.vercel.app)
