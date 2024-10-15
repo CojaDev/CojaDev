@@ -1,6 +1,6 @@
 # Hello, World! I'm Aleksandar Marcetic 👋
 
-<p align="center">
+<p align="start">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
