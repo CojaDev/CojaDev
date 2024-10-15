@@ -59,9 +59,6 @@ I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CojaDev&theme=radical" alt="Aleksandar's Streak" />
 </p>
 
-<p align="center">
-</p>
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aleksandar-marcetic-b47483202/)
