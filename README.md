@@ -48,7 +48,7 @@ I'm a passionate Frontend Web Developer based in Serbia, constantly pushing the 
 - Description: Restorani Subotica is a web platform showcasing various restaurants in Subotica. Users can browse through a curated list of restaurants, view detailed information about each one, and make reservations directly through the website.
 - Tech Stack: React, Next.js, TailwindCSS
 - [GitHub Repo](https://github.com/CojaDev/Restorani_Subotica2)
-- [Live Demo](https://restoranisubotica.vercel.app)
+- [Live Demo](https://restorani-subotica.vercel.app)
 
 </details>
 
